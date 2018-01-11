@@ -1,0 +1,52 @@
+.NT1{
+	  color: #83e9dc;
+	  background: #000000;
+}
+
+.NT2{
+	margin-top:4px;
+}
+
+.NT3{
+     margin-right: 5px;
+}
+
+
+.NT4{
+	color: #83e9dc;
+    background-color: transparent;
+    background-image: none;
+    border-color: #83e9dc;
+}
+
+.NT5{
+	color: #83e9dc;
+	font-size: 18px;
+	} 
+	
+.NT6{
+	position: relative;
+    z-index: 2;
+    font-size: 17px;
+    width: 100%;
+    padding: 0;
+    letter-spacing: 1px;
+   
+}
+
+.NT7{
+	position: sticky;
+    top: 0;
+    z-index: 1071;
+}
+
+.NT8{
+	margin-top: 10px;
+}
+.nav-position{
+	position: fixed;
+    top: 0;
+    z-index: 5;
+    left: 0;
+    right: 0;
+}
