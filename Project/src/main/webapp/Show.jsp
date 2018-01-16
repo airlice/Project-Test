@@ -10,8 +10,11 @@
 <body>
 <h2>Page Show</h2>
 
+		<s:property value="myModel.name" />
+		
 
-		<s:property value="name" />
+		<s:property value="myModel.email" />
+		
 
 </body>
 </html>

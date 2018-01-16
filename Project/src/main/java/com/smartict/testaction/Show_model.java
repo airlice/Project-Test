@@ -7,21 +7,13 @@ public class Show_model {
 
 
 			private String name,email;
-	
 
-			public String getUsername() {
+			public String getName() {
 				return name;
 			}
 
-			public void setUsername(String username) {
-				this.name = username;
-			}
-
-			// all struts logic here
-			public String execute() {
-
-				return "SUCCESS";
-
+			public void setName(String name) {
+				this.name = name;
 			}
 
 			public String getEmail() {
@@ -31,6 +23,9 @@ public class Show_model {
 			public void setEmail(String email) {
 				this.email = email;
 			}
+
+		
+
 		
 	}
 

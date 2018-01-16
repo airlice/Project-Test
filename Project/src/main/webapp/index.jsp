@@ -11,8 +11,8 @@
 	
 	<form action="Show">   
 	
-	Name<input type="text" name="name">
-	E-mail<input type="text" name="email">
+	Name<input type="text" name="myModel.name">
+	E-mail<input type="text" name="myModel.email">
 	<button type="submit">Submit</button>
 	
 	</form>
